@@ -33,3 +33,8 @@ C:\Users\Acer\source\repos\AspDotNetCoreWithEFCoreProjects\StudentManagementWith
 C:\Users\Acer\source\repos\AspDotNetCoreWithEFCoreProjects\StudentManagementWithADO\obj\Debug\netcoreapp2.2\Razor\Views\Student\Edit.g.cshtml.cs
 C:\Users\Acer\source\repos\AspDotNetCoreWithEFCoreProjects\StudentManagementWithADO\obj\Debug\netcoreapp2.2\Razor\Views\Student\Delete.g.cshtml.cs
 C:\Users\Acer\source\repos\AspDotNetCoreWithEFCoreProjects\StudentManagementWithADO\obj\Debug\netcoreapp2.2\Razor\Views\Student\Details.g.cshtml.cs
+C:\Users\Acer\source\repos\AspDotNetCoreWithEFCoreProjects\StudentManagementWithADO\obj\Debug\netcoreapp2.2\Razor\Views\Teacher\Create.g.cshtml.cs
+C:\Users\Acer\source\repos\AspDotNetCoreWithEFCoreProjects\StudentManagementWithADO\obj\Debug\netcoreapp2.2\Razor\Views\Teacher\Index.g.cshtml.cs
+C:\Users\Acer\source\repos\AspDotNetCoreWithEFCoreProjects\StudentManagementWithADO\obj\Debug\netcoreapp2.2\Razor\Views\Teacher\Edit.g.cshtml.cs
+C:\Users\Acer\source\repos\AspDotNetCoreWithEFCoreProjects\StudentManagementWithADO\obj\Debug\netcoreapp2.2\Razor\Views\Teacher\Delete.g.cshtml.cs
+C:\Users\Acer\source\repos\AspDotNetCoreWithEFCoreProjects\StudentManagementWithADO\obj\Debug\netcoreapp2.2\Razor\Views\Teacher\Details.g.cshtml.cs
